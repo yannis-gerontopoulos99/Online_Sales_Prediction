@@ -1,0 +1,7 @@
+pandas version == 2.2.2
+numpy version == 1.26.4
+seaborn version == 0.13.2
+matplotlib version == 3.9.0
+sklearn version == 1.5.0
+tensorflow version == 2.16.2
+keras version == 3.4.1
